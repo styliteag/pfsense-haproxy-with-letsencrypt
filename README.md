@@ -1,4 +1,4 @@
 # pfSense HAproxy with letsencrypt autorenew
 
 
-This is how i Setup a pfSense Box to proxy to Backend sites, and also intercept the ACME/Letsencrypt Request, to automate the renewal
+This is how we setup a pfSense Box to proxy to backend sites, and also intercept the ACME/Letsencrypt request, to automate the renewal
